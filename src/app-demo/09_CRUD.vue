@@ -47,6 +47,7 @@ function hasValidInput() {
     return first.value.trim() && last.value.trim()
 }
 </script>
+
 <template>
     <div><input v-model="prefix" placeholder="Filter prefix"></div>
 

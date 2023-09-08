@@ -9,5 +9,6 @@ import './style.css'
 // import App from './app-demo/06_简单组件.vue';
 // import App from './app-demo/07_markdown编辑器.vue';
 // import App from './app-demo/08_带有排序和过滤器得网格.vue';
-import App from './app-demo/09_CRUD.vue';
+// import App from './app-demo/09_CRUD.vue';
+import App from './app-demo/demo.vue'
 createApp(App).mount('#app')

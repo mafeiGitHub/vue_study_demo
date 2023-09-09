@@ -6,7 +6,7 @@ const message = ref('hello world!')
 
 <template>
     <h1>{{ message }}</h1>
-    <h2>  hello</h2>
+    <h2>  hello  </h2>
 </template>
 
 <style scoped>
